@@ -1,24 +1,24 @@
-# exchange
+# Criptomonedas
+<p>Projecto en VueJs para consultar el valor de las criptomonedas haciendo uso de un api publica <a href="https://coincap.io/" target="_blank">Coincap</a>.</p>
 
-## Project setup
+## Prerequisitos
+- NodeJS
+## Configuración del proyecto
+1. Ejecutar
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+2. Ejecutar lo siguiente para compilar y visualizar los cambios en el navegador.
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compila y minifica para producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
+## Uso de lint
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
